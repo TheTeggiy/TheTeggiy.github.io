@@ -1,0 +1,2 @@
+RewriteRule ^home?$ index.html [NC, L]
+RewriteRule ^test?$ test.html [NC, L]
